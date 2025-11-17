@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+Manual clock. 4 Flip flops and 3 or gates. Each clock tick pushes the input to the next flip flop.
 ## How to test
 
-Explain how to use your project
+Hit your input and tick the clock. This will pass the input to the first flip flop. Then hit the your next input and push tick the clock and all inputs will shift down one flip-flop. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+We used LEDs to display the ticking output and display the stored input in each flip flop after each clock tick. 
